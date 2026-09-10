@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/main.cpp" "CMakeFiles/A01_hello_world.dir/main.cpp.o" "gcc" "CMakeFiles/A01_hello_world.dir/main.cpp.o.d"
+  "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/scheduler.cpp" "CMakeFiles/A01_hello_world.dir/scheduler.cpp.o" "gcc" "CMakeFiles/A01_hello_world.dir/scheduler.cpp.o.d"
+  "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe.cpp" "CMakeFiles/A01_hello_world.dir/tictactoe.cpp.o" "gcc" "CMakeFiles/A01_hello_world.dir/tictactoe.cpp.o.d"
   )
 
 # Targets to which this target links.

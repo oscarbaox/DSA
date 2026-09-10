@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboard_lib.a CMakeFiles/board_lib.dir/tictactoe.cpp.o
+/usr/bin/ranlib libboard_lib.a

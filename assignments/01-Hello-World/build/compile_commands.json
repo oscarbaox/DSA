@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/build",
+  "command": "/usr/bin/g++  -I/home/oscarbao/Desktop/DSA/assignments/01-Hello-World -g -Wall -Wextra -Wpedantic -o CMakeFiles/board_lib.dir/tictactoe.cpp.o -c /home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe.cpp",
+  "file": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe.cpp"
+},
+{
+  "directory": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/build",
+  "command": "/usr/bin/g++  -I/home/oscarbao/Desktop/DSA/assignments/01-Hello-World -g -Wall -Wextra -Wpedantic -o CMakeFiles/run_tests.dir/tictactoe_test.cpp.o -c /home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe_test.cpp",
+  "file": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe_test.cpp"
+},
+{
+  "directory": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/build",
+  "command": "/usr/bin/g++  -I/home/oscarbao/Desktop/DSA/assignments/01-Hello-World -g -Wall -Wextra -Wpedantic -o CMakeFiles/run_tests.dir/tictactoe.cpp.o -c /home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe.cpp",
+  "file": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/tictactoe.cpp"
+},
+{
+  "directory": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/build",
+  "command": "/usr/bin/g++   -g -Wall -Wextra -Wpedantic -o CMakeFiles/scheduler.dir/scheduler.cpp.o -c /home/oscarbao/Desktop/DSA/assignments/01-Hello-World/scheduler.cpp",
+  "file": "/home/oscarbao/Desktop/DSA/assignments/01-Hello-World/scheduler.cpp"
+}
+]
