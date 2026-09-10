@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/A01_hello_world.dir/scheduler.cpp.o CMakeFiles/A01_hello_world.dir/tictactoe.cpp.o -o A01_hello_world 
